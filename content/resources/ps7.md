@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource is about problem set 7.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-101-applied-nuclear-physics-fall-2006/d68de5b2ce5023aafa3f3d2c2c83fde3_ps7.pdf
+file: /media/courses/22-101-applied-nuclear-physics-fall-2006/d68de5b2ce5023aafa3f3d2c2c83fde3_ps7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps7.pdf
 uid: d68de5b2-ce50-23aa-fa3f-3d2c2c83fde3

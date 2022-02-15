@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource is about nuclear shell model.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-101-applied-nuclear-physics-fall-2006/c14838ad2152f564335c51984bcea0b7_lec10.pdf
+file: /media/courses/22-101-applied-nuclear-physics-fall-2006/c14838ad2152f564335c51984bcea0b7_lec10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec10.pdf
 uid: c14838ad-2152-f564-335c-51984bcea0b7

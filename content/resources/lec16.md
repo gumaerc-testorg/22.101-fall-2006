@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'This resource is about Neutron Interactions: Q-Equation, Elastic Scattering.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-101-applied-nuclear-physics-fall-2006/e64f9052c5e2b41b83413015c141422b_lec16.pdf
+file: /media/courses/22-101-applied-nuclear-physics-fall-2006/e64f9052c5e2b41b83413015c141422b_lec16.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec16.pdf
 uid: e64f9052-c5e2-b41b-8341-3015c141422b

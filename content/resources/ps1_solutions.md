@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resurce is about problem set 1 solutions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-101-applied-nuclear-physics-fall-2006/25373218f35249ae308e64e1abe6cc1f_ps1_solutions.pdf
+file: /media/courses/22-101-applied-nuclear-physics-fall-2006/25373218f35249ae308e64e1abe6cc1f_ps1_solutions.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps1_solutions.pdf
 uid: 25373218-f352-49ae-308e-64e1abe6cc1f

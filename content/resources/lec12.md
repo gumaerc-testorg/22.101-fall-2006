@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource is about Empirical Binding Energy Formula and Mass Parabolas.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-101-applied-nuclear-physics-fall-2006/7b6d57f16a4497216969bbaf609846ab_lec12.pdf
+file: /media/courses/22-101-applied-nuclear-physics-fall-2006/7b6d57f16a4497216969bbaf609846ab_lec12.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec12.pdf
 uid: 7b6d57f1-6a44-9721-6969-bbaf609846ab

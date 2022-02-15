@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains quiz no. 1.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-101-applied-nuclear-physics-fall-2006/53611bf5c6f5e041e2992eeb96770bbd_quiz1.pdf
+file: /media/courses/22-101-applied-nuclear-physics-fall-2006/53611bf5c6f5e041e2992eeb96770bbd_quiz1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: quiz1.pdf
 uid: 53611bf5-c6f5-e041-e299-2eeb96770bbd
