@@ -5,6 +5,7 @@ file: /courses/22-101-applied-nuclear-physics-fall-2006/f2341c260e368161f11af671
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec11.pdf
 uid: f2341c26-0e36-8161-f11a-f6719b04bf6e
 ---
 This resource is about Nuclear Binding Energy and Stability.
-

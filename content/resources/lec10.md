@@ -5,6 +5,7 @@ file: /courses/22-101-applied-nuclear-physics-fall-2006/c14838ad2152f564335c5198
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec10.pdf
 uid: c14838ad-2152-f564-335c-51984bcea0b7
 ---
 This resource is about nuclear shell model.
-

@@ -5,6 +5,7 @@ file: /courses/22-101-applied-nuclear-physics-fall-2006/1e350a0355aacbee065a6728
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec19.pdf
 uid: 1e350a03-55aa-cbee-065a-6728470e6597
 ---
 This resource is about Gamma Interactions: Compton Scattering.
-

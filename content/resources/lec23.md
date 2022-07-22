@@ -5,6 +5,7 @@ file: /courses/22-101-applied-nuclear-physics-fall-2006/d19db60217ee30d5064944b9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec23.pdf
 uid: d19db602-17ee-30d5-0649-44b99341d6a0
 ---
 This resource is about Nuclear Reactions: Energetics and Compound Nucleus.
-

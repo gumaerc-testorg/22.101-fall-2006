@@ -5,6 +5,7 @@ file: /courses/22-101-applied-nuclear-physics-fall-2006/23d8ba9129ad944d33d823c8
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: formula_quiz2.pdf
 uid: 23d8ba91-29ad-944d-33d8-23c8a34a6ad4
 ---
 This resource is about quiz 2 formula.
-

@@ -5,6 +5,7 @@ file: /courses/22-101-applied-nuclear-physics-fall-2006/f83f13a540738642b4d2964e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps5.pdf
 uid: f83f13a5-4073-8642-b4d2-964e9bf9a572
 ---
 This resource contains problem set 4.
-

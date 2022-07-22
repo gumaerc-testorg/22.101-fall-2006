@@ -5,6 +5,7 @@ file: /courses/22-101-applied-nuclear-physics-fall-2006/bf7cafe977565aad8ebdabc3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec22.pdf
 uid: bf7cafe9-7756-5aad-8ebd-abc3cca249f0
 ---
 This resource is about Nuclear Decays.
-

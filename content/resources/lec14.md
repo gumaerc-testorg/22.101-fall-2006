@@ -6,6 +6,7 @@ file: /courses/22-101-applied-nuclear-physics-fall-2006/179f7a2618d601b9b37c72da
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec14.pdf
 uid: 179f7a26-18d6-01b9-b37c-72dab4c5d747
 ---
 This resource is about Charged-Particle Interactions: Stopping Power, Collisions and Ionization.
-

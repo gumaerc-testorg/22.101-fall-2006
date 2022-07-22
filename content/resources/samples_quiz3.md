@@ -5,6 +5,7 @@ file: /courses/22-101-applied-nuclear-physics-fall-2006/e76f68350748e982425790bd
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: samples_quiz3.pdf
 uid: e76f6835-0748-e982-4257-90bd41e17e8f
 ---
 This resource is about sample questions for quiz 3.
-
