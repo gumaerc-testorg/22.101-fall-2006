@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource is about Supplement to Lecture 1: Nuclear Data Compilation
   and Evaluation.'
 file: /courses/22-101-applied-nuclear-physics-fall-2006/cc9830f02ae1aa2432226d587efc0bef_lec01_suppl.pdf
+file_size: 34060
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

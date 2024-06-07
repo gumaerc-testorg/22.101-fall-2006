@@ -2,6 +2,7 @@
 content_type: resource
 description: This resurce is about problem set 1 solutions.
 file: /courses/22-101-applied-nuclear-physics-fall-2006/25373218f35249ae308e64e1abe6cc1f_ps1_solutions.pdf
+file_size: 83510
 file_type: application/pdf
 learning_resource_types:
 - Assignments
