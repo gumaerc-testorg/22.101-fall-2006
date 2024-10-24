@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource is about Detection of Nuclear Radiation: Pulse Height
   Spectra.'
-file: /courses/22-101-applied-nuclear-physics-fall-2006/fb3ffd55107ea6aef5dbfdf99b21905d_lec21.pdf
+file: /ol-ocw-studio-app/courses/22-101-applied-nuclear-physics-fall-2006/fb3ffd55107ea6aef5dbfdf99b21905d_lec21.pdf
 file_size: 181086
 file_type: application/pdf
 learning_resource_types:
