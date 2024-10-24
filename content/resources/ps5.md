@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problem set 4.
-file: /courses/22-101-applied-nuclear-physics-fall-2006/f83f13a540738642b4d2964e9bf9a572_ps5.pdf
+file: /ol-ocw-studio-app/courses/22-101-applied-nuclear-physics-fall-2006/f83f13a540738642b4d2964e9bf9a572_ps5.pdf
 file_size: 25050
 file_type: application/pdf
 learning_resource_types:

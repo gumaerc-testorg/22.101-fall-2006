@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is about nuclear shell model.
-file: /courses/22-101-applied-nuclear-physics-fall-2006/c14838ad2152f564335c51984bcea0b7_lec10.pdf
+file: /ol-ocw-studio-app/courses/22-101-applied-nuclear-physics-fall-2006/c14838ad2152f564335c51984bcea0b7_lec10.pdf
 file_size: 262687
 file_type: application/pdf
 learning_resource_types:
