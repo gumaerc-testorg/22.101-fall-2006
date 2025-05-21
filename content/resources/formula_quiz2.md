@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is about quiz 2 formula.
-file: /ol-ocw-studio-app/courses/22-101-applied-nuclear-physics-fall-2006/23d8ba9129ad944d33d823c8a34a6ad4_formula_quiz2.pdf
+file: /courses/22-101-applied-nuclear-physics-fall-2006/23d8ba9129ad944d33d823c8a34a6ad4_formula_quiz2.pdf
 file_size: 697639
 file_type: application/pdf
 learning_resource_types:

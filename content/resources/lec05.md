@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is about Barrier Penetration.
-file: /ol-ocw-studio-app/courses/22-101-applied-nuclear-physics-fall-2006/dde165da2a88034feeb03f285d164e5a_lec05.pdf
+file: /courses/22-101-applied-nuclear-physics-fall-2006/dde165da2a88034feeb03f285d164e5a_lec05.pdf
 file_size: 285513
 file_type: application/pdf
 learning_resource_types:

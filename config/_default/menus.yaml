@@ -15,3 +15,7 @@ leftnav:
   name: Exams
   pageRef: /pages/exams
   weight: 40
+- identifier: 18f8def3-9ffb-4b57-ac91-c4437256fd1c
+  name: Image Gallery
+  pageRef: /external-resources/image-gallery
+  weight: 50
