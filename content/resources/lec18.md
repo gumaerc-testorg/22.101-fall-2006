@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource is about Neutron Interactions: Energy and Angular Distributions,
   Thermal Motions.'
-file: /ol-ocw-studio-app/courses/22-101-applied-nuclear-physics-fall-2006/11c80c265dcb66c8b7ac4de6d301e5c7_lec18.pdf
+file: /courses/22-101-applied-nuclear-physics-fall-2006/11c80c265dcb66c8b7ac4de6d301e5c7_lec18.pdf
 file_size: 330279
 file_type: application/pdf
 learning_resource_types:

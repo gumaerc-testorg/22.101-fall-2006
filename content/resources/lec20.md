@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource is about Gamma Interactions: Photoelectric Effect and
   Pair Production.'
-file: /ol-ocw-studio-app/courses/22-101-applied-nuclear-physics-fall-2006/1b26bfd0ab991ac260533bdaf24b4240_lec20.pdf
+file: /courses/22-101-applied-nuclear-physics-fall-2006/1b26bfd0ab991ac260533bdaf24b4240_lec20.pdf
 file_size: 425613
 file_type: application/pdf
 learning_resource_types:

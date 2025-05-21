@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is about Bound States in Three Dimensions ? Orbital Angular
   Momentum.
-file: /ol-ocw-studio-app/courses/22-101-applied-nuclear-physics-fall-2006/0163cd6b396dc865cbc3ecff45dd21fc_lec04.pdf
+file: /courses/22-101-applied-nuclear-physics-fall-2006/0163cd6b396dc865cbc3ecff45dd21fc_lec04.pdf
 file_size: 260547
 file_type: application/pdf
 learning_resource_types:
