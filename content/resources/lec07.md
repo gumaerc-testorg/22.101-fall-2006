@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is about Overview of Cross Section Calculation.
-file: /ol-ocw-studio-app/courses/22-101-applied-nuclear-physics-fall-2006/19377ad84084291508e746b6ef3f567b_lec07.pdf
+file: /courses/22-101-applied-nuclear-physics-fall-2006/19377ad84084291508e746b6ef3f567b_lec07.pdf
 file_size: 251809
 file_type: application/pdf
 learning_resource_types:
