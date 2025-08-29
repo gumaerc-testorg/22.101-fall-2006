@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource is about Gamma Interactions: Compton Scattering.'
-file: /courses/22-101-applied-nuclear-physics-fall-2006/1e350a0355aacbee065a6728470e6597_lec19.pdf
+file: /ol-ocw-studio-app/courses/22-101-applied-nuclear-physics-fall-2006/1e350a0355aacbee065a6728470e6597_lec19.pdf
 file_size: 403896
 file_type: application/pdf
 learning_resource_types:
