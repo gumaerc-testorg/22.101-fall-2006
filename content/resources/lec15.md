@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource is about Charged-Particle Interactions: Radiation Loss,
   Range.'
-file: /courses/22-101-applied-nuclear-physics-fall-2006/5f7f00659fb45e4357ee784e8dc2c7ab_lec15.pdf
+file: /ol-ocw-studio-app/courses/22-101-applied-nuclear-physics-fall-2006/5f7f00659fb45e4357ee784e8dc2c7ab_lec15.pdf
 file_size: 341161
 file_type: application/pdf
 learning_resource_types:

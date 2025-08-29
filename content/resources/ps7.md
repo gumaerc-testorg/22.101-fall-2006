@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is about problem set 7.
-file: /courses/22-101-applied-nuclear-physics-fall-2006/d68de5b2ce5023aafa3f3d2c2c83fde3_ps7.pdf
+file: /ol-ocw-studio-app/courses/22-101-applied-nuclear-physics-fall-2006/d68de5b2ce5023aafa3f3d2c2c83fde3_ps7.pdf
 file_size: 88264
 file_type: application/pdf
 learning_resource_types:
