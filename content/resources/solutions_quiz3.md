@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions to quiz 3.
-file: /courses/22-101-applied-nuclear-physics-fall-2006/40919b459f39c97ac8bc1842e118b548_solutions_quiz3.pdf
+file: /ol-ocw-studio-app/courses/22-101-applied-nuclear-physics-fall-2006/40919b459f39c97ac8bc1842e118b548_solutions_quiz3.pdf
 file_size: 190610
 file_type: application/pdf
 learning_resource_types:
