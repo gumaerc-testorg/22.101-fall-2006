@@ -8,7 +8,7 @@ title: Assignments
 uid: 75ddc6ce-282e-ff89-d8ac-49457a76f098
 ---
 
-[Table of Nuclides](http://atom.kaeri.re.kr/)
+{{% resource_link "be060043-2980-4171-bd5f-d0db669294f7" "Table of Nuclides" %}}
 
 Assignments
 -----------
